@@ -55,6 +55,7 @@ Total Articles: 44,000+
 ## Project Structure
 ```
 Fake-News-Detection/
+|
 ├── data/
 │   ├── Fake.csv
 │   └── True.csv
@@ -166,6 +167,6 @@ Detected Keywords:
 
 ## Author
 
-Chinmay nayak
+Chinmay Nayak
 
 Machine Learning | NLP | Streamlit
