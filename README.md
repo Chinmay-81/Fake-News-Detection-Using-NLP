@@ -53,7 +53,7 @@ Total Articles: 44,000+
 ---
 
 ## Project Structure
-
+```
 Fake-News-Detection/
 ├── data/
 │   ├── Fake.csv
@@ -74,7 +74,7 @@ Fake-News-Detection/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## Installation
